@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelRodri
-- 👀 I’m interested in IA and software and game development
+- 👀 I’m interested in software and game development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me samuelrh2001@hotmail.com
