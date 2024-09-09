@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @SamuelRodri
+<div  align="center">
+  <h1>👋 Hi, I’m @SamuelRodri</h1>
+</div>
 - 👀 I’m interested in game development and VR
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate ...
