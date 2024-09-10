@@ -1,33 +1,49 @@
 # 👋 Hi, I’m Samuel Rodriguez</h1>
 
-### 🖥️ A computer engineer passionate about videogame development and VR
+### 🚀 A computer engineer passionate about videogame development and VR
 
 ## About me:
-- :video_game:  I'm a **computer engineer** with a growing interest in **game development** and **virtual reality (VR).**
+-  :computer: I'm a **computer engineer** with a growing interest in **game development** and **virtual reality (VR).**
 - :gear: I love defining and analyzing the **systems** that make up a game.
 - :books: I'm currently learning to apply the most commonly used **design patterns** in game development.
+- :video_game: I enjoy participating in GameJams and and programming challenges.
 
 ## Featured projects:
-<table>
+<table style="border: none">
   <tr>
-    <td>
-      <img src="enlace-a-la-imagen-1" alt="Nombre del proyecto 1" width="200" />
-      <p>Breve descripción del proyecto 1</p>
-      <p>
-        <a href="enlace-del-repositorio-1">Enlace al repositorio</a> <br>
-        <a href="enlace-del-sitio-1">Enlace al sitio</a>
-      </p>
-    </td>
-    <td>
-      <img src="enlace-a-la-imagen-2" alt="Nombre del proyecto 2" width="200" />
-      <p>Breve descripción del proyecto 2</p>
-      <p>
-        <a href="enlace-del-repositorio-2">Enlace al repositorio</a> <br>
-        <a href="enlace-del-sitio-2">Enlace al sitio</a>
-      </p>
-    </td>
+  <td width="50%" valign="top">
+    
+### Project 1
+
+If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+
+  </td>
+  <td width="50%" valign="top">
+
+### Project 2
+
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
   </tr>
 </table>
+
+## How to find me?
+
+<p align="center" style="display: flex; justify-content: center; gap: 15px;>
+  <a href="https://www.linkedin.com/in/samuelrodri/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkeIn" height="40" width="40"/></a>
+  <a href="https://x.com/samurdev"><img src="https://img.freepik.com/vector-gratis/twitter-nuevo-logotipo-2023-x-vector-fondo-blanco_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1725753600&semt=ais_hybrid" alt="X" height="40" width="40"/></a>
+  <a href="https://samuelrodri.itch.io/"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="Itch.io" height="40" width="40"/></a>
+  <a href="mailto:samuelrodridev@outlook.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" alt="Email" height="40" width="40"/></a>
+  <a href="https://samuelrodridev.wixsite.com/samudev"><img src="https://www.svgrepo.com/show/229032/internet.svg" alt="Webl" height="40" width="40"/></a>
+  <a href="https://github.com/SamuelRodri"><img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="Github" height="40" width="40"/></a>
+</p>
+
 
 <!---
 SamuelRodri/SamuelRodri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
