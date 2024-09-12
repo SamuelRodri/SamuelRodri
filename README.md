@@ -12,14 +12,18 @@
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
+
     
-### Project 1
+  ### Vertebral Column VR
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+  A TFG carried out for the ULPGC in collaboration with the Faculty of Health Sciences.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+  You can hire me as a freelancer on 
+  <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a>, 
+  <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a>.
 
-  </td>
+  </a>
+</td>
   <td width="50%" valign="top">
 
 ### Project 2
