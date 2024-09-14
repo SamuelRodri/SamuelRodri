@@ -21,17 +21,14 @@
   
 You can manipulate a spine. Applying flexions, extensions and rotations and more
 
-  </a>
 </td>
   <td width="50%" valign="top">
 
-### Project 2
+### <a href="https://github.com/SamuelRodri/2D-World-Map-Generator">2D World Map Generator</a>
+A tool that allows you to generate meshes of territories like a world map
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
+You can pass territorial data from a geojson to generate your maps
   </td>
   </tr>
 </table>
