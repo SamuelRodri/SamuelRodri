@@ -25,6 +25,8 @@
   ### <a href="https://github.com/SamuelRodri/2D-World-Map-Generator">2D World Map Generator</a>
   
   A tool that allows you to generate meshes of territories like a world map
+
+  <img src="https://user-images.githubusercontent.com/72737491/183245442-ca4f5e52-ebe3-433b-b950-0b6a05c731b0.PNG" alt="Map Generated">
   
   You can pass territorial data from a geojson to generate your maps
   <br><br>
