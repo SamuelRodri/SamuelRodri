@@ -14,13 +14,12 @@
   <td width="50%" valign="top">
 
     
-  ### Vertebral Column VR
+  ### <a href="https://github.com/SamuelRodri/TFG_VR">Vertebral Column VR</a>
 
   A TFG carried out for the ULPGC in collaboration with the Faculty of Health Sciences.
 
-  You can hire me as a freelancer on 
-  <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a>, 
-  <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a>.
+  
+You can manipulate a spine. Applying flexions, extensions and rotations and more
 
   </a>
 </td>
