@@ -12,24 +12,24 @@
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
-
     
   ### <a href="https://github.com/SamuelRodri/TFG_VR">Vertebral Column VR</a>
 
-  A TFG carried out for the ULPGC in collaboration with the Faculty of Health Sciences.
-
+  A TFG carried out for the ULPGC in collaboration with the Faculty of Health Sciences.  
   
-You can manipulate a spine. Applying flexions, extensions and rotations and more
-
+  You can manipulate a spine. Applying flexions, extensions and rotations and more
+<br><br>
 </td>
   <td width="50%" valign="top">
 
-### <a href="https://github.com/SamuelRodri/2D-World-Map-Generator">2D World Map Generator</a>
-A tool that allows you to generate meshes of territories like a world map
-
-
-You can pass territorial data from a geojson to generate your maps
+  ### <a href="https://github.com/SamuelRodri/2D-World-Map-Generator">2D World Map Generator</a>
+  
+  A tool that allows you to generate meshes of territories like a world map
+  
+  You can pass territorial data from a geojson to generate your maps
+  <br><br>
   </td>
+  
   </tr>
 </table>
 
