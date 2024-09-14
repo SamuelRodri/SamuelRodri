@@ -17,7 +17,9 @@
 
   A TFG carried out for the ULPGC in collaboration with the Faculty of Health Sciences.  
   
-  You can manipulate a spine. Applying flexions, extensions and rotations and more
+  You can manipulate a spine. Applying flexions, rotations and more
+
+  <img src="https://private-user-images.githubusercontent.com/72737491/367516976-79e352be-5d95-468c-b3b8-73f748b470f9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYzMTk4NzksIm5iZiI6MTcyNjMxOTU3OSwicGF0aCI6Ii83MjczNzQ5MS8zNjc1MTY5NzYtNzllMzUyYmUtNWQ5NS00NjhjLWIzYjgtNzNmNzQ4YjQ3MGY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE0VDEzMTI1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlNjg3ZTI4MmE5YjE0MjRmYTdkYjE0YWQzOGY5ZDg1YjJmOGM5OTRiZjk2NjVkZWJjODZhODVkNTQ3ZTY4MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BBzVt0yE0vx8x7uVhLUD2HdYrVTzstaievY9VeULw0Q" alt="Spine Manipulated">
 <br><br>
 </td>
   <td width="50%" valign="top">
