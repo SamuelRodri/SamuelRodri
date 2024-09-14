@@ -6,7 +6,7 @@
 -  :computer: I'm a **computer engineer** with a growing interest in **game development** and **virtual reality (VR).**
 - :gear: I love defining and analyzing the **systems** that make up a game.
 - :books: I'm currently learning to apply the most commonly used **design patterns** in game development.
-- :video_game: I enjoy participating in GameJams and and programming challenges.
+- :video_game: I enjoy participating in GameJams and programming challenges.
 
 ## Featured projects:
 <table style="border: none">
